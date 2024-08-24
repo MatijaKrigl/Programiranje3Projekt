@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3CWqOf6mkrvWD5bwXm2p9GzlZSK4deRkG2U6qLx9MmHGsZmzm6nKt70UFhkap21XOKk8GXo/xfKU8yMZiFIig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matij\\OneDrive\\Namizje\\PROG3\\zadnja\\ClovekNeJeziSe-master\\ClovekNeJeziSe\\ClovekNeJeziSe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matij\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\matij\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\matij\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\matij\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\matij\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

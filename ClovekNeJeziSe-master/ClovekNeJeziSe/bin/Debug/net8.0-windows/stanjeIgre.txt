@@ -1,0 +1,16 @@
+Igralec 0:
+Figure: -111, -112, -113, -114
+Je računalnik: False
+
+Igralec 1:
+Figure: -211, -212, -213, -214
+Je računalnik: False
+
+Igralec 2:
+Figure: 25, -312, -313, -314
+Je računalnik: False
+
+Igralec 3:
+Figure: -411, -412, -413, -414
+Je računalnik: False
+
